@@ -31,6 +31,5 @@ You can access the live web-based version of this model hosted on Hugging Face S
 * `best.pt`: Trained model weights.
 * `/samples`: Demonstration images and video files.
 * `requirements.txt` & `packages.txt`: Environment configuration for deployment.
-
-* ## 🖼️ Detection Showcase
-![Model Detection Grid](samples/images/3_Classes detection Samples.JPEG)
+## 🖼️ Detection Showcase
+* ![Model Detection Grid](samples/images/3_Classes detection Samples.JPEG)
