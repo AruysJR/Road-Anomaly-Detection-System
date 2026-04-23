@@ -22,7 +22,7 @@ The model was trained on a custom dataset and validated on 156 test images. It a
 
 ## 🚀 Live Demo
 You can access the live web-based version of this model hosted on Hugging Face Spaces:
-👉 **(https://huggingface.co/spaces/AruysJR/Road_Anomaly_Detection_System)**
+👉 **[Live Demo]((https://huggingface.co/spaces/AruysJR/Road_Anomaly_Detection_System)**
 
 ---
 
